@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R05VM8Rg)
-
 # MNIST Digit Classification
 
 ## 📌 Purpose
@@ -120,22 +118,7 @@ Uses **majority voting** across the three models to generate final predictions.
 
 ---
 
-## 🧾 Authors
 
-**Roll No.** (2025–26), IIT Madras
-
----
-
-## 📝 Best Practices Followed
-
-- ✅ Meaningful commit messages documenting code evolution
-- ✅ Modularized code with clear separation of algorithms
-- ✅ Well-commented functions and classes
-- ✅ Reproducible results with fixed random seeds
-- ✅ Comprehensive evaluation metrics
-- ✅ Detailed documentation and project report
-
----
 
 ## 📄 Results
 
